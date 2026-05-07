@@ -1,2 +1,2 @@
-# web-dev
-learning web dev
+# front-end
+learning frontend
